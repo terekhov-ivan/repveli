@@ -1,0 +1,1 @@
+sources = [mergeSources(sources)];
